@@ -1,0 +1,201 @@
+\documentclass[]{sunnykumar-resume}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.38\textwidth} 
+\begin{large}
+	\headername{Sunny Kumar}\\
+\end{large}
+\section{B.Tech. | NIT Rourkela}
+\vspace{0.2 cm}
+Second Year, Electrical \ Engineering\\
+DOB: 02 01 2003\\
+Contact: +91 6207573670\\
+Email:\textbf{\href{mailto:sunnykumar@23232@gmail.com}{ sunnykumar@23232@gmail.com}} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education} 
+\noindent\rule{5cm}{0.4pt}\\
+\datecolor{2022-2026}
+\subsection{B.Tech., EE}
+NIT Rourkela \\
+CGPA: 6.77/10\\
+\vspace{8pt}
+\datecolor{May 2021}
+\subsection{Intermediate}
+Dr.L.K.V.D. College, Tajpur, Samastipur\\
+Percentage: 76\%\\
+\vspace{8pt}
+\datecolor{May 2018}
+\subsection{Matriculation}
+HIGH SCHOOL MAUDHA, Vaishali, Bihar\\
+Percentage: 74\%\\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Links}  %add CodeChef, Behance etc if you wish to
+\noindent\rule{5cm}{0.4pt}\\
+Github:// \href{https://github.com/SUNNYKUMAR1232}
+{\custombold{SUNNYKUMAR}} \\
+LinkedIn://  \href{https://www.linkedin.com/in/sunny-kumar-620s/}{\custombold{SUNNYKUMAR}} \vspace{8pt}\\
+LeetCode://  \href{https://leetcode.com/sunnykumar23232/}{\custombold{SUNNYKUMAR}} \\
+Geeksforgeeks://  \href{https://auth.geeksforgeeks.org/user/sunnykum9d1v}{\custombold{SUNNYKUMAR}} \\
+CodingNinjas://  \href{https://www.codingninjas.com/studio/profile/codeHub23}{\custombold{codeHub23}} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\noindent\rule{5cm}{0.4pt}
+\subsection{General Programming}
+C, C++, Python, JavaScript\\
+java, Dart, Matlab
+\vspace{6pt}
+\subsection{Libraries/Frameworks}
+React, Nextjs, Node, Express\\
+Firebase, Django, Flutter,\\
+Spring Boot, Apache Kafka\\
+
+
+\vspace{6pt}
+\subsection{Others}
+Git, Linux
+\vspace{6pt}
+\subsection{Languages}
+English, Hindi
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Relevant Courses}
+\noindent\rule{5cm}{0.4pt}
+
+Data Structures\\
+Algorithm\\
+MySQL\\
+System Design\\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.57\textwidth} 
+% \descript{BS in Computer ence}
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill    \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\\\\\\\\\\\\\
+\section{Work Experience/Projects} %Combine projects and work experiences and mention only relevant projects in brief
+\noindent\rule{11 cm}{0.1pt}
+\datecolor{2023-now} \runsubsection{\href{https://github.com/SUNNYKUMAR1232/Learning-platform}{\custombold{Learning Platform}}} \descript{Project}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+                        \\\\
+     Provided a user-friendly Learning platform. In which users can purchase  
+   courses for learning. 
+\end{minipage}
+\sectionsep
+
+\datecolor{2023-now} \runsubsection{\href{https://github.com/SUNNYKUMAR1232/Blog-project-using-Django}{\custombold{Blog Website}}}\descript{Project}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+     \\\\
+    Provided a Blog website in which users can create a blog, publish and manage it
+\end{minipage}
+\sectionsep
+
+\datecolor{2023-now} \runsubsection{\href{https://github.com/SUNNYKUMAR1232/kafka-project}{\custombold{Kafka‐Messaging‐server}}} \descript{Project}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+    \\\\
+    Provided a Messaging service which sends messages through Kafka.  
+\end{minipage}
+\sectionsep
+
+\datecolor{2023-now} \runsubsection{\href{https://github.com/Monday-Morning}{\custombold{Monday Morning}}} \descript{Open-Source}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+    \\\\
+      I work as a frontend as well as a backend developer.\\
+      Create dark-light mode functionality. \runsubsection{\href{https://github.com/Monday-Morning/project-tahiti/pull/476}{\descript{PR #476}}}
+      \\
+      Search Bar bug fix. \runsubsection{\href{https://github.com/Monday-Morning/project-tahiti/pull/477}{\descript{PR #477}}}
+      \\
+      Create a Poll page. \runsubsection{\href{https://github.com/Monday-Morning/project-tahiti/pull/470}{\descript{PR #470}}}
+      \\
+      Add poll mutation, query and resolver in the backend. \runsubsection{\href{https://github.com/Monday-Morning/project-reclamation/pull/209}{\descript{PR #209}}}
+      
+\end{minipage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Achievements/Certifications} 
+\noindent\rule{11cm}{0.4pt}
+\datecolor{2023} \runsubsection{
+Web Development Fundamentals}
+\descript{IBM-SkillsBuild}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+Completed a course on Web Development offered by IBM.
+\end{minipage}
+\datecolor{2023} \runsubsection{
+Cybersecurity Fundamentals}
+\descript{IBM-SkillsBuild}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+Completed a course on Cybersecurity Fundamentals offered by IBM.
+\end{minipage}
+\datecolor{2023} \runsubsection{Professional Skills}
+\descript{IBM-SkillsBuild}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+Completed a course on 
+Working in a Digital World: Professional Skills offered by IBM.
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Extra Curriculars
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Extra Curricular Activities} %only mention activities that show job-related skill development such as creativity, positions of responsibility, presentation etc.
+\noindent\rule{11cm}{0.4pt}
+\datecolor{2022-Now} \runsubsection{Member, Tech Team}
+\descript{Monday Morning}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{5pt}}
+I am a member of Monday Morning, the student media body at NIT Rourkela, where I worked as a web developer.
+\end{minipage}
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
+
+
+
